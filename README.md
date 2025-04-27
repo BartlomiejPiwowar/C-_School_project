@@ -1,6 +1,6 @@
 🎓  **SchoolManager**
 *(Simple School Management System in C++)*
-SchoolManager is a console-based C++ application that simulates a simple school management system. It models key roles within a school such as pupils, teachers, and administrative staff using object-oriented programming principles like inheritance, polymorphism, and encapsulation.
+SchoolManager is a console-based C++ application that simulates a simple school management system. It models key roles within a school such as pupils, teachers, and administrative staff using object-oriented programming principles like inheritance and polymorphism.
 
 The goal of the project is to demonstrate practical OOP concepts while simulating real-world operations like grading students, calculating salaries and taxes, and managing school personnel.
 
